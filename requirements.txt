@@ -1,0 +1,17 @@
+matplotlib
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
+seaborn
+langchain-community
+langchain-huggingface
+ctransformers
+streamlit
+streamlit_chat
+
+# pip install -U langchain-community
